@@ -68,6 +68,7 @@ namespace HelloTest
             //
             // TODO: Add test logic here
             //
+            Assert.AreEqual("", Hello.);
         }
     }
 }
