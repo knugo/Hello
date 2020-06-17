@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("HelloTest")]
+[assembly: AssemblyTitle("USqlCSharpUdoUnitTestProject1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("HelloTest")]
+[assembly: AssemblyProduct("USqlCSharpUdoUnitTestProject1")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0c69f984-dcb4-43a6-99b3-c24410d513a8")]
+[assembly: Guid("4106853f-8955-4602-8777-52620f7cfef5")]
 
 // Version information for an assembly consists of the following four values:
 //
